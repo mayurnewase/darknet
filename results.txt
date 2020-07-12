@@ -1,0 +1,32 @@
+ GPU isn't used 
+mini_batch = 1, batch = 8, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 32032 K-images (500 Kilo-batches_64) 
+/home/mayur/projects/maskio/images/traffic-3.jpg: Predicted in 27294.810000 milli-seconds.
+bus: 69%
+car: 48%
+car: 76%
+person: 65%
+motorbike: 84%
+person: 99%
+motorbike: 89%
+bus: 80%
+backpack: 32%
+person: 26%
+person: 47%
+motorbike: 95%
+person: 95%
+person: 59%
+person: 65%
+motorbike: 46%
+person: 97%
+motorbike: 94%
+person: 59%
+person: 54%
+motorbike: 94%
+person: 96%
+backpack: 77%
+person: 87%

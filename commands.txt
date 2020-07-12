@@ -1,0 +1,3 @@
+./darknet detector test cfg/coco.data cfg/yolov4.cfg original_weights/yolov4.weights /home/mayur/Downloads/traffic-3.jpg -don_show -out "/home/mayur/projects/maskio/prediction_out_file.txt"
+
+check src/detector.c for inference info
